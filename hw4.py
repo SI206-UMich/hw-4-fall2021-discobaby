@@ -1,3 +1,4 @@
+    #BENJAMIN DECKER
 import unittest
 # The Customer class
 # The Customer class represents a customer who will order from the stalls.
@@ -241,7 +242,6 @@ def main():
 
     cashier1 = Cashier("Sally", [stall1, stall2])
     cashier2 = Cashier("Junie", [stall1, stall2])
-
     # Customer.validate_order(cashier1, stall1, "wings", 5)
 
     #case 1: the cashier does not have the stall 
